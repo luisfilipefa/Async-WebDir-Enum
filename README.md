@@ -5,9 +5,9 @@ Async WebDir Enum is a very simple Python script to bruteforce web directories u
 ## Installation
 
 Use pip to install the requirements file.
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ## Arguments
 
