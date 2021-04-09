@@ -17,6 +17,8 @@ pip install -r requirements.txt
 |-w   |--wordlist |The wordlist to use                                     |
 |-s   |--semaphore|The number of concurrent REQUESTS (not threads) to allow|
 
-## Misc
+## Usage
 
-Like I said, this was just a simple project to learn how to use asyncio and aiohttp. 
+``` 
+python webdirenum.py -u http://example.com -w wordlist.txt -s 30
+```
